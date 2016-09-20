@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TienXang/Program.cs">
+    <Files>
+      <File FileName="TinhTuoi/Program.cs" Line="24" Column="5" />
+      <File FileName="NextDay/Program.cs" Line="9" Column="25" />
+      <File FileName="SoLonNhat/Program.cs" Line="23" Column="4" />
+      <File FileName="TienXang/Program.cs" Line="15" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
